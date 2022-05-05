@@ -2,6 +2,8 @@
   "name": "NodeJS-App",
   "lockfileVersion": 2,
   "requires": true,
-  "packages": {}
-  "start": "main.js"
+  "packages": {},
+  "scripts": {
+    "start": "node main.js"
+  }
 }
