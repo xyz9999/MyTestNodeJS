@@ -3,4 +3,7 @@
   "lockfileVersion": 2,
   "requires": true,
   "packages": {}
+  "scripts": {
+    "start": "main.js"
+  }
 }
